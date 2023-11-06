@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: #000; /* Set the background to black */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    color: #ff0000; /* Set the text color to red */
+}
+
+img {
+    max-width: 80%;
+    max-height: 400px;
+    margin: 20px;
+}
